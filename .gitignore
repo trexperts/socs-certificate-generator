@@ -1,0 +1,6 @@
+output/
+__pycache__/
+*.pyc
+.DS_Store
+# Don't commit real recipient lists or generated certs
+# recipients_real.csv
